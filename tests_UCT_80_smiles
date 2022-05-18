@@ -1,0 +1,1738 @@
+
+target:CN1C(=O)c2ccc(C(=O)N=c3ccc(Br)c[nH]3)cc2C1=O
+search time:111.25683331489563
+branching factors:[]
+best solution rollout:95
+first solution time:0
+first solution iteration:0
+number of nodes:832
+max transforms:7
+max children:13
+number of routes:250
+number of solved routes:0
+top score:0.7184601461011058
+is solved:False
+number of steps:6
+number of precursors:4
+number of precursors in stock:3
+precursors in stock:CC(=O)O, CNC(C)=O, O=C1CCC(=O)N1Br
+precursors not in stock:COC(=O)c1ccc(C(=O)N=c2cccc(C(=O)O)[nH]2)cc1C(=O)OC
+precursors availability:zinc;zinc;Not in stock;zinc
+policy used counts:{'uspto': 831}
+
+
+target:CC(=NNC(N)=O)c1ccc(Cl)cc1
+search time:47.84393930435181
+branching factors:[]
+best solution rollout:700
+first solution time:1.191770315170288
+first solution iteration:1
+number of nodes:240
+max transforms:7
+max children:8
+number of routes:109
+number of solved routes:18
+top score:0.9976287063411217
+is solved:True
+number of steps:1
+number of precursors:1
+number of precursors in stock:1
+precursors in stock:CC(=NNC(N)=O)c1ccccc1
+precursors not in stock:
+precursors availability:zinc
+policy used counts:{'uspto': 239}
+
+
+target:O=C1c2ccccc2C(=O)N1CC(CN1C(=O)c2ccccc2C1=O)(C(=O)OCc1ccccc1)C(=O)OCc1ccccc1
+search time:50.61838912963867
+branching factors:[]
+best solution rollout:700
+first solution time:16.873961210250854
+first solution iteration:33
+number of nodes:622
+max transforms:7
+max children:15
+number of routes:100
+number of solved routes:1
+top score:0.975
+is solved:True
+number of steps:4
+number of precursors:5
+number of precursors in stock:5
+precursors in stock:O=C1NC(=O)c2ccccc21, O=C1NC(=O)c2ccccc21, BrCc1ccccc1, BrCc1ccccc1, O=C(O)C(CO)(CO)C(=O)O
+precursors not in stock:
+precursors availability:zinc;zinc;zinc;zinc;zinc
+policy used counts:{'uspto': 621}
+
+
+target:Cc1ccc2c(c1)CCCN2C(=O)CCc1nc(=O)c2ccccc2[nH]1
+search time:47.65648651123047
+branching factors:[]
+best solution rollout:700
+first solution time:0.06686019897460938
+first solution iteration:1
+number of nodes:549
+max transforms:7
+max children:30
+number of routes:149
+number of solved routes:43
+top score:0.9976287063411217
+is solved:True
+number of steps:1
+number of precursors:2
+number of precursors in stock:2
+precursors in stock:Cc1ccc2c(c1)CCCN2, O=C(O)CCc1nc(=O)c2ccccc2[nH]1
+precursors not in stock:
+precursors availability:zinc;zinc
+policy used counts:{'uspto': 548}
+
+
+target:Cn1ccc2ccc3c(c21)CCN3C(=O)Nc1cccnc1
+search time:62.14630603790283
+branching factors:[]
+best solution rollout:700
+first solution time:17.690311908721924
+first solution iteration:24
+number of nodes:537
+max transforms:7
+max children:21
+number of routes:151
+number of solved routes:1
+top score:0.9559601461011058
+is solved:True
+number of steps:6
+number of precursors:3
+number of precursors in stock:3
+precursors in stock:O=C=Nc1cccnc1, CCOC(=O)CBr, Nc1ccc2cc[nH]c2c1
+precursors not in stock:
+precursors availability:zinc;zinc;zinc
+policy used counts:{'uspto': 536}
+
+
+target:COC12C(=COC(N)=O)c3c(O)c(N)c(C)c(O)c3N1CC1C2N1C(=S)Nc1ccccc1
+search time:102.03939914703369
+branching factors:[]
+best solution rollout:700
+first solution time:0
+first solution iteration:0
+number of nodes:845
+max transforms:7
+max children:23
+number of routes:285
+number of solved routes:0
+top score:0.7659601461011059
+is solved:False
+number of steps:6
+number of precursors:5
+number of precursors in stock:4
+precursors in stock:CC(C)(O)C(C)(C)O, CC(=O)OC(C)=O, CC(C)(O)C(C)(C)O, OB(O)B(O)O
+precursors not in stock:COC12C(=COC(N)=O)c3c(O[Si](C)(C)C(C)(C)C)c([N+](=O)[O-])c(C)c(Br)c3N1CC1C2N1C(=S)Nc1ccccc1
+precursors availability:zinc;zinc;Not in stock;zinc;zinc
+policy used counts:{'uspto': 844}
+
+
+target:O=C1NC(=S)SC1=Cc1ccc(O)c(Br)c1
+search time:36.665104150772095
+branching factors:[]
+best solution rollout:700
+first solution time:0.06198263168334961
+first solution iteration:1
+number of nodes:174
+max transforms:7
+max children:12
+number of routes:48
+number of solved routes:26
+top score:0.9976287063411217
+is solved:True
+number of steps:1
+number of precursors:2
+number of precursors in stock:2
+precursors in stock:O=C1CSC(=S)N1, O=Cc1ccc(O)c(Br)c1
+precursors not in stock:
+precursors availability:zinc;zinc
+policy used counts:{'uspto': 173}
+
+
+target:CCCCCOC(=O)N1CCN(C(=O)C(CCC(=O)O)NC(=O)c2cc(N3CCC(COC)C3)cc(-c3ccccc3)n2)CC1
+search time:84.50855994224548
+branching factors:[]
+best solution rollout:700
+first solution time:0
+first solution iteration:0
+number of nodes:759
+max transforms:7
+max children:31
+number of routes:139
+number of solved routes:0
+top score:0.7976268127677725
+is solved:False
+number of steps:6
+number of precursors:6
+number of precursors in stock:5
+precursors in stock:CCCCCOC(=O)N1CCNCC1, O=C(Cl)OCc1ccccc1, CC(C)(C)O, CC(C)(C)OC(=O)OC(=O)OC(C)(C)C, NCCCC(=O)O
+precursors not in stock:COCC1CCN(c2cc(C(=O)O)nc(-c3ccccc3)c2)C1
+precursors availability:Not in stock;zinc;zinc;zinc;zinc;zinc
+policy used counts:{'uspto': 758}
+
+
+target:Cc1cc(N=c2nc3c(c[nH]2)CCc2nn(C)c(-c4ccc(OC(F)F)cc4)c2-3)nn1C
+search time:113.95696496963501
+branching factors:[]
+best solution rollout:700
+first solution time:0
+first solution iteration:0
+number of nodes:772
+max transforms:7
+max children:17
+number of routes:168
+number of solved routes:0
+top score:0.82024586038682
+is solved:False
+number of steps:6
+number of precursors:7
+number of precursors in stock:6
+precursors in stock:O=C1CCC(=O)N1Br, CC(C)(O)C(C)(C)O, CC(C)(O)C(C)(C)O, OB(O)B(O)O, CC(C)(C)OC(=O)OC(=O)OC(C)(C)C, O=P(Cl)(Cl)Cl
+precursors not in stock:Cc1cc(N=c2nc(O)c(CCc3cc(-c4ccc(OC(F)F)cc4)n(C)n3)c[nH]2)nn1C
+precursors availability:zinc;zinc;zinc;zinc;zinc;Not in stock;zinc
+policy used counts:{'uspto': 771}
+
+
+target:O=C(Nc1ccc(F)cc1F)C1(c2cccs2)CCOCC1
+search time:37.29860973358154
+branching factors:[]
+best solution rollout:700
+first solution time:0.06134438514709473
+first solution iteration:1
+number of nodes:303
+max transforms:7
+max children:18
+number of routes:104
+number of solved routes:51
+top score:0.9976287063411217
+is solved:True
+number of steps:1
+number of precursors:2
+number of precursors in stock:2
+precursors in stock:Nc1ccc(F)cc1F, O=C(O)C1(c2cccs2)CCOCC1
+precursors not in stock:
+precursors availability:zinc;zinc
+policy used counts:{'uspto': 302}
+
+
+target:O=C(CSc1nnc(C2CC2)n1C1CC1)c1cccs1
+search time:37.780924797058105
+branching factors:[]
+best solution rollout:700
+first solution time:0.2072889804840088
+first solution iteration:1
+number of nodes:252
+max transforms:7
+max children:12
+number of routes:67
+number of solved routes:39
+top score:0.9976287063411217
+is solved:True
+number of steps:1
+number of precursors:2
+number of precursors in stock:2
+precursors in stock:O=C(CBr)c1cccs1, Sc1nnc(C2CC2)n1C1CC1
+precursors not in stock:
+precursors availability:zinc;zinc
+policy used counts:{'uspto': 251}
+
+
+target:COc1ccc(-n2c(SCC(=O)NCC3CCCO3)nc3ccccc3c2=O)cc1Cl
+search time:120.40630388259888
+branching factors:[]
+best solution rollout:700
+first solution time:0
+first solution iteration:0
+number of nodes:645
+max transforms:7
+max children:15
+number of routes:78
+number of solved routes:0
+top score:0.7490529289315001
+is solved:False
+number of steps:3
+number of precursors:4
+number of precursors in stock:3
+precursors in stock:COc1ccc(Br)cc1Cl, CCOC(=O)CBr, O=c1[nH]c(S)nc2ccccc12
+precursors not in stock:[N-]=[N+]=NCC1CCCO1
+precursors availability:zinc;Not in stock;zinc;zinc
+policy used counts:{'uspto': 644}
+
+
+target:O=C(CC[N+](=O)[O-])N=c1ccc(Cl)c[nH]1
+search time:79.65345644950867
+branching factors:[]
+best solution rollout:700
+first solution time:0.15276050567626953
+first solution iteration:1
+number of nodes:600
+max transforms:7
+max children:14
+number of routes:184
+number of solved routes:6
+top score:0.9976287063411217
+is solved:True
+number of steps:1
+number of precursors:2
+number of precursors in stock:2
+precursors in stock:Nc1ccc(Cl)cn1, O=C(O)CC[N+](=O)[O-]
+precursors not in stock:
+precursors availability:zinc;zinc
+policy used counts:{'uspto': 599}
+
+
+target:CC=Cc1ccc2c(=NC(C)c3ccc(NC(=O)c4ccc(Cl)nc4)cc3)[nH]c(N(C)C)nc2c1
+search time:120.55469417572021
+branching factors:[]
+best solution rollout:700
+first solution time:0
+first solution iteration:0
+number of nodes:915
+max transforms:7
+max children:10
+number of routes:280
+number of solved routes:0
+top score:0.794037960325545
+is solved:False
+number of steps:7
+number of precursors:6
+number of precursors in stock:5
+precursors in stock:CCCBr, O=C(O)c1ccc(Cl)nc1, CNC=O, O=P(Cl)(Cl)Cl, O=C1CCC(=O)N1Br
+precursors not in stock:COc1nc2ccccc2c(=NC(C)c2ccc([N+](=O)[O-])cc2)[nH]1
+precursors availability:zinc;zinc;zinc;zinc;Not in stock;zinc
+policy used counts:{'uspto': 914}
+
+
+target:Brc1ccc(C2=CSC3=NC4=C(CNCC4=Cc4ccccc4)C(c4ccccc4)N23)cc1
+search time:120.50755214691162
+branching factors:[]
+best solution rollout:700
+first solution time:0
+first solution iteration:0
+number of nodes:873
+max transforms:7
+max children:16
+number of routes:370
+number of solved routes:0
+top score:0.7659601461011059
+is solved:False
+number of steps:6
+number of precursors:5
+number of precursors in stock:4
+precursors in stock:O=C(Cl)OCC(Cl)(Cl)Cl, CCOC(=O)Cl, Ic1ccccc1, BrCc1ccccc1
+precursors not in stock:C=C1CNCC2=C1N=C1SC=C(c3ccc(Br)cc3)N1C2c1ccccc1
+precursors availability:zinc;zinc;zinc;zinc;Not in stock
+policy used counts:{'uspto': 872}
+
+
+target:O=c1c2c3c(sc2ncn1-c1ccccc1)CCCC3
+search time:43.973833322525024
+branching factors:[]
+best solution rollout:700
+first solution time:0.3854186534881592
+first solution iteration:1
+number of nodes:360
+max transforms:7
+max children:22
+number of routes:98
+number of solved routes:27
+top score:0.9976287063411217
+is solved:True
+number of steps:1
+number of precursors:2
+number of precursors in stock:2
+precursors in stock:O=c1[nH]cnc2sc3c(c12)CCCC3, OB(O)c1ccccc1
+precursors not in stock:
+precursors availability:zinc;zinc
+policy used counts:{'uspto': 359}
+
+
+target:C=CCN1C(=O)c2ccc(C(=O)NCC(=O)Nc3c(C)cc(C)cc3C)cc2C1=O
+search time:24.104454278945923
+branching factors:[]
+best solution rollout:700
+first solution time:0.23122143745422363
+first solution iteration:1
+number of nodes:340
+max transforms:7
+max children:15
+number of routes:119
+number of solved routes:75
+top score:0.994039853898894
+is solved:True
+number of steps:2
+number of precursors:3
+number of precursors in stock:3
+precursors in stock:Cc1cc(C)c(N)c(C)c1, C=CCN1C(=O)c2ccc(C(=O)O)cc2C1=O, COC(=O)CN
+precursors not in stock:
+precursors availability:zinc;zinc;zinc
+policy used counts:{'uspto': 339}
+
+
+target:COc1ccccc1NC(=S)N1CCC(c2nc3cc(C)c(C)cc3[nH]2)CC1
+search time:19.158690452575684
+branching factors:[]
+best solution rollout:700
+first solution time:0.061830997467041016
+first solution iteration:1
+number of nodes:111
+max transforms:7
+max children:25
+number of routes:41
+number of solved routes:29
+top score:0.9976287063411217
+is solved:True
+number of steps:1
+number of precursors:2
+number of precursors in stock:2
+precursors in stock:COc1ccccc1N=C=S, Cc1cc2nc(C3CCNCC3)[nH]c2cc1C
+precursors not in stock:
+precursors availability:zinc;zinc
+policy used counts:{'uspto': 110}
+
+
+target:Cc1nc2[nH]c(SCc3nc4ccccc4[nH]3)nc2cc1Br
+search time:31.534714460372925
+branching factors:[]
+best solution rollout:700
+first solution time:0.19721484184265137
+first solution iteration:1
+number of nodes:312
+max transforms:7
+max children:27
+number of routes:82
+number of solved routes:54
+top score:0.9976287063411217
+is solved:True
+number of steps:1
+number of precursors:2
+number of precursors in stock:2
+precursors in stock:Cc1nc2[nH]c(S)nc2cc1Br, ClCc1nc2ccccc2[nH]1
+precursors not in stock:
+precursors availability:zinc;zinc
+policy used counts:{'uspto': 311}
+
+
+target:COc1cc(O)c2c(c1)C(=O)c1cc(CN(CCO)CCO)cc(OC)c1C2=O
+search time:62.32967972755432
+branching factors:[]
+best solution rollout:700
+first solution time:28.26053810119629
+first solution iteration:46
+number of nodes:691
+max transforms:7
+max children:34
+number of routes:148
+number of solved routes:1
+top score:0.9559601461011058
+is solved:True
+number of steps:6
+number of precursors:3
+number of precursors in stock:3
+precursors in stock:OCCNCCO, COc1cc(OC)cc(C(=O)N(C)OC)c1, COc1cc(C)cc(Br)c1
+precursors not in stock:
+precursors availability:zinc;zinc;zinc
+policy used counts:{'uspto': 690}
+
+
+target:CCC(=O)c1c(Cl)n(C2OC(COC(C)=O)C(O)C2O)c2cc(Cl)c(Cl)cc12
+search time:58.51278614997864
+branching factors:[]
+best solution rollout:700
+first solution time:0
+first solution iteration:0
+number of nodes:913
+max transforms:7
+max children:29
+number of routes:368
+number of solved routes:0
+top score:0.8166570079445925
+is solved:False
+number of steps:7
+number of precursors:7
+number of precursors in stock:6
+precursors in stock:CCC(=O)N(C)OC, CC(=O)Cl, O=C1CCC(=O)N1Br, CC(=O)Cl, CC(=O)Cl, CC(=O)Cl
+precursors not in stock:OCC1OC(n2c(Cl)cc3cc(Cl)c(Cl)cc32)C(O)C1O
+precursors availability:zinc;zinc;zinc;zinc;zinc;zinc;Not in stock
+policy used counts:{'uspto': 912}
+
+
+target:COc1ccc(OCCNC(=O)c2c(C)nc3cc(C)ccn23)cc1
+search time:13.17056393623352
+branching factors:[]
+best solution rollout:700
+first solution time:0.08259987831115723
+first solution iteration:1
+number of nodes:106
+max transforms:7
+max children:12
+number of routes:50
+number of solved routes:40
+top score:0.9976287063411217
+is solved:True
+number of steps:1
+number of precursors:2
+number of precursors in stock:2
+precursors in stock:COc1ccc(OCCN)cc1, Cc1ccn2c(C(=O)O)c(C)nc2c1
+precursors not in stock:
+precursors availability:zinc;zinc
+policy used counts:{'uspto': 105}
+
+
+target:Cc1cc(OCC(O)CN2C(C)CCCC2C)ccc1C(C)C
+search time:105.6675751209259
+branching factors:[]
+best solution rollout:700
+first solution time:75.73136377334595
+first solution iteration:70
+number of nodes:790
+max transforms:7
+max children:22
+number of routes:123
+number of solved routes:4
+top score:0.9865529289315002
+is solved:True
+number of steps:3
+number of precursors:3
+number of precursors in stock:3
+precursors in stock:Cc1cccc(C)n1, Cc1cc(O)ccc1C(C)C, OC(CCl)CCl
+precursors not in stock:
+precursors availability:zinc;zinc;zinc
+policy used counts:{'uspto': 789}
+
+
+target:COc1cc(N=Nc2ccc(S(=O)(=O)O)cc2)ccc1N=Nc1ccc(O)c(C(=O)O)c1
+search time:120.01447749137878
+branching factors:[]
+best solution rollout:700
+first solution time:0
+first solution iteration:0
+number of nodes:527
+max transforms:7
+max children:22
+number of routes:146
+number of solved routes:0
+top score:0.7659601461011059
+is solved:False
+number of steps:6
+number of precursors:5
+number of precursors in stock:4
+precursors in stock:O=S(=O)(O)c1ccccc1, CC(C)(C)OC(=O)OC(=O)OC(C)(C)C, COc1cc([N+](=O)[O-])ccc1N, O=Nc1ccc(O)cc1
+precursors not in stock:O=N[O-]
+precursors availability:Not in stock;zinc;zinc;zinc;zinc
+policy used counts:{'uspto': 526}
+
+
+target:N#Cc1ccc(NC(=O)NCc2cccc(C(=O)Nc3ccc(CN)cc3)c2)cc1
+search time:54.54131078720093
+branching factors:[]
+best solution rollout:700
+first solution time:0.3043549060821533
+first solution iteration:1
+number of nodes:545
+max transforms:7
+max children:33
+number of routes:107
+number of solved routes:63
+top score:0.9865529289315002
+is solved:True
+number of steps:3
+number of precursors:3
+number of precursors in stock:3
+precursors in stock:NCc1ccc(N)cc1, CCOC(=O)c1cccc(CN)c1, N#Cc1ccc(N=C=O)cc1
+precursors not in stock:
+precursors availability:zinc;zinc;zinc
+policy used counts:{'uspto': 544}
+
+
+target:CC(C)(C)CNC(=O)N(CCCl)N=O
+search time:91.84401369094849
+branching factors:[]
+best solution rollout:700
+first solution time:0.9628784656524658
+first solution iteration:2
+number of nodes:377
+max transforms:7
+max children:10
+number of routes:156
+number of solved routes:27
+top score:0.994039853898894
+is solved:True
+number of steps:2
+number of precursors:2
+number of precursors in stock:2
+precursors in stock:CC(C)(C)CN=C=O, NCCCl
+precursors not in stock:
+precursors availability:zinc;zinc
+policy used counts:{'uspto': 376}
+
+
+target:O=C(CN1C(=O)C(=Cc2cccc(F)c2)Oc2ccccc21)N1CCN(c2ccccn2)CC1
+search time:67.21471810340881
+branching factors:[]
+best solution rollout:700
+first solution time:7.509475946426392
+first solution iteration:11
+number of nodes:1440
+max transforms:7
+max children:19
+number of routes:889
+number of solved routes:2
+top score:0.9559601461011058
+is solved:True
+number of steps:6
+number of precursors:4
+number of precursors in stock:4
+precursors in stock:c1ccc(N2CCNCC2)nc1, CCOC(=O)CN, CCOC(=O)COc1ccccc1F, O=Cc1cccc(F)c1
+precursors not in stock:
+precursors availability:zinc;zinc;zinc;zinc
+policy used counts:{'uspto': 1439}
+
+
+target:COc1cc(N)c(Cl)cc1C(=O)OCCN1CCN(C(=O)CCCNS(=O)(=O)c2cccc3c(N(C)C)cccc23)CC1
+search time:120.48319578170776
+branching factors:[]
+best solution rollout:700
+first solution time:0
+first solution iteration:0
+number of nodes:676
+max transforms:7
+max children:39
+number of routes:140
+number of solved routes:0
+top score:0.8051137377351664
+is solved:False
+number of steps:5
+number of precursors:6
+number of precursors in stock:5
+precursors in stock:CN(C)c1cccc2ccccc12, COc1cc(N)c(Cl)cc1C(=O)O, OCCBr, CC(C)(C)OC(=O)N1CCNCC1, O=C(O)CCCN1C(=O)c2ccccc2C1=O
+precursors not in stock:O=S(=O)(O)Cl
+precursors availability:zinc;Not in stock;zinc;zinc;zinc;zinc
+policy used counts:{'uspto': 675}
+
+
+target:NCCn1nc2c3c(c(NCCN4CCOCC4)ccc31)C(=O)c1ccncc1-2
+search time:79.62388825416565
+branching factors:[]
+best solution rollout:700
+first solution time:0
+first solution iteration:0
+number of nodes:773
+max transforms:7
+max children:37
+number of routes:127
+number of solved routes:0
+top score:0.8166570079445925
+is solved:False
+number of steps:7
+number of precursors:7
+number of precursors in stock:6
+precursors in stock:CC(C)(O)C(C)(C)O, CC(C)(O)C(C)(C)O, OB(O)B(O)O, CC(C)(C)OC(=O)NCCCl, C1COCCN1, O=S(Cl)Cl
+precursors not in stock:O=C(c1ccncc1Br)c1c(NCCO)ccc2[nH]ncc12
+precursors availability:zinc;zinc;zinc;zinc;zinc;Not in stock;zinc
+policy used counts:{'uspto': 772}
+
+
+target:N#Cc1ccc(Cn2ccnc2)cc1Oc1ccc(Cl)cc1
+search time:27.370184659957886
+branching factors:[]
+best solution rollout:700
+first solution time:0.07196164131164551
+first solution iteration:1
+number of nodes:358
+max transforms:7
+max children:23
+number of routes:127
+number of solved routes:95
+top score:0.9976287063411217
+is solved:True
+number of steps:1
+number of precursors:2
+number of precursors in stock:2
+precursors in stock:N#Cc1ccc(Cn2ccnc2)cc1F, Oc1ccc(Cl)cc1
+precursors not in stock:
+precursors availability:zinc;zinc
+policy used counts:{'uspto': 357}
+
+
+target:Cc1ccc2ncc(S(=O)(=O)c3ccccc3)c(N3CCC(C)CC3)c2c1
+search time:90.52388620376587
+branching factors:[]
+best solution rollout:700
+first solution time:0.34369587898254395
+first solution iteration:1
+number of nodes:653
+max transforms:7
+max children:37
+number of routes:183
+number of solved routes:5
+top score:0.9634470710684997
+is solved:True
+number of steps:5
+number of precursors:5
+number of precursors in stock:5
+precursors in stock:CC1CCNCC1, O=P(Cl)(Cl)Cl, O=C(OO)c1cccc(Cl)c1, Sc1ccccc1, Cc1ccc2[nH]ccc(=O)c2c1
+precursors not in stock:
+precursors availability:zinc;zinc;zinc;zinc;zinc
+policy used counts:{'uspto': 652}
+
+
+target:CC(=O)N1CCN(CC(=O)N2CCN(c3cc4c(cc3F)c(=O)c(C(=O)O)cn4C3CC3)CC2)CC1
+search time:62.613840103149414
+branching factors:[]
+best solution rollout:700
+first solution time:0.39275670051574707
+first solution iteration:1
+number of nodes:725
+max transforms:7
+max children:49
+number of routes:131
+number of solved routes:51
+top score:0.975
+is solved:True
+number of steps:4
+number of precursors:5
+number of precursors in stock:5
+precursors in stock:NC1CC1, CCOC(=O)CC(=O)c1cc(F)c(F)cc1F, CCOC(OCC)OCC, CC(=O)Cl, O=C(CN1CCNCC1)N1CCNCC1
+precursors not in stock:
+precursors availability:zinc;zinc;zinc;zinc;zinc
+policy used counts:{'uspto': 724}
+
+
+target:c1ccc(-c2nc(=NC3CC3)c3ccccc3[nH]2)cc1
+search time:79.88136768341064
+branching factors:[]
+best solution rollout:700
+first solution time:0.23178625106811523
+first solution iteration:1
+number of nodes:589
+max transforms:7
+max children:18
+number of routes:235
+number of solved routes:48
+top score:0.9976287063411217
+is solved:True
+number of steps:1
+number of precursors:2
+number of precursors in stock:2
+precursors in stock:Clc1nc(=NC2CC2)c2ccccc2[nH]1, OB(O)c1ccccc1
+precursors not in stock:
+precursors availability:zinc;zinc
+policy used counts:{'uspto': 588}
+
+
+target:COc1cc(OCCCN(C)C)c2c(c1)C(C)(C)C(c1ccccc1)C2c1ccccc1
+search time:92.0341591835022
+branching factors:[]
+best solution rollout:700
+first solution time:0
+first solution iteration:0
+number of nodes:1229
+max transforms:7
+max children:39
+number of routes:634
+number of solved routes:0
+top score:0.7259470710684996
+is solved:False
+number of steps:5
+number of precursors:4
+number of precursors in stock:3
+precursors in stock:ClCCCBr, CNC=O, Brc1ccccc1
+precursors not in stock:COc1cc(OC)c2c(c1)C(C)(C)C(c1ccccc1)C2=O
+precursors availability:zinc;zinc;zinc;Not in stock
+policy used counts:{'uspto': 1228}
+
+
+target:CCN(CC(=O)Nc1ccccc1C(F)(F)F)C(=O)c1ccc(-n2nc(C)c(CCC(=O)OC)c2C)cc1
+search time:74.87032127380371
+branching factors:[]
+best solution rollout:700
+first solution time:4.554768800735474
+first solution iteration:6
+number of nodes:651
+max transforms:7
+max children:11
+number of routes:127
+number of solved routes:3
+top score:0.9559601461011058
+is solved:True
+number of steps:6
+number of precursors:5
+number of precursors in stock:5
+precursors in stock:O=C(CCl)Nc1ccccc1C(F)(F)F, CCOC(=O)CP(=O)(OCC)OCC, CCNC(=O)c1ccc(-n2nc(C)cc2C)cc1, CN(C)C=O, COCc1ccccc1
+precursors not in stock:
+precursors availability:zinc;zinc;zinc;zinc;zinc
+policy used counts:{'uspto': 650}
+
+
+target:Cn1cc(-c2ncc3c(c2C(=O)O)CCN(Cc2ccco2)C3)cn1
+search time:65.38232731819153
+branching factors:[]
+best solution rollout:700
+first solution time:47.475791454315186
+first solution iteration:74
+number of nodes:628
+max transforms:7
+max children:18
+number of routes:121
+number of solved routes:3
+top score:0.9559601461011058
+is solved:True
+number of steps:6
+number of precursors:5
+number of precursors in stock:5
+precursors in stock:O=C(Cl)OCc1ccccc1, O=Cc1ccco1, Cn1cc(B2OC(C)(C)C(C)(C)O2)cn1, CC(C)(C)OC(=O)OC(=O)OC(C)(C)C, Clc1cc2c(cn1)CNCC2
+precursors not in stock:
+precursors availability:zinc;zinc;zinc;zinc;zinc
+policy used counts:{'uspto': 627}
+
+
+target:CCc1c2n(C)ccc3c-2n(c(=O)c1=O)c1ccccc31
+search time:87.0198495388031
+branching factors:[]
+best solution rollout:700
+first solution time:0
+first solution iteration:0
+number of nodes:753
+max transforms:7
+max children:22
+number of routes:227
+number of solved routes:0
+top score:0.646780404401833
+is solved:False
+number of steps:5
+number of precursors:3
+number of precursors in stock:2
+precursors in stock:C#C[Si](C)(C)C, O=C1CCC(=O)N1Br
+precursors not in stock:O=c1cc2[nH]ccc3c-2n(c1=O)c1ccccc31
+precursors availability:zinc;zinc;Not in stock
+policy used counts:{'uspto': 752}
+
+
+target:CCCc1nc(C(=O)NC2COCC2N2CCN(C)CC2)cs1
+search time:70.46662044525146
+branching factors:[]
+best solution rollout:700
+first solution time:0
+first solution iteration:0
+number of nodes:721
+max transforms:7
+max children:24
+number of routes:162
+number of solved routes:0
+top score:0.7623712936588783
+is solved:False
+number of steps:7
+number of precursors:5
+number of precursors in stock:4
+precursors in stock:CCOC(=O)Cl, O=Cc1ccccc1, CCCc1nc(C(=O)O)cs1, CC(C)(C)OC(=O)OC(=O)OC(C)(C)C
+precursors not in stock:NC1COCC1N1CCN(C(=O)OCc2ccccc2)CC1
+precursors availability:zinc;zinc;zinc;zinc;Not in stock
+policy used counts:{'uspto': 720}
+
+
+target:Cn1cc(C2=CC3c4cccc(N5CCOCC5)c4CCN3C(=O)C=N2)cn1
+search time:121.48919177055359
+branching factors:[]
+best solution rollout:700
+first solution time:0
+first solution iteration:0
+number of nodes:896
+max transforms:7
+max children:16
+number of routes:431
+number of solved routes:0
+top score:0.7148712936588782
+is solved:False
+number of steps:7
+number of precursors:4
+number of precursors in stock:3
+precursors in stock:C1COCCN1, O=C(c1ccccc1)c1ccccc1, Brc1ccccc1
+precursors not in stock:O=C1C=NC(c2cn[nH]c2)=CC2c3cccc(Br)c3CCN12
+precursors availability:zinc;Not in stock;zinc;zinc
+policy used counts:{'uspto': 895}
+
+
+target:CCCCc1nn2ncccc2c1-c1cc[nH]c(=Nc2ccc(N3CCN(C)CC3)cc2)n1
+search time:105.70351886749268
+branching factors:[]
+best solution rollout:700
+first solution time:0
+first solution iteration:0
+number of nodes:810
+max transforms:7
+max children:19
+number of routes:270
+number of solved routes:0
+top score:0.7734470710684997
+is solved:False
+number of steps:5
+number of precursors:5
+number of precursors in stock:4
+precursors in stock:CN(CCCl)CCCl, O=C1CCC(=O)N1Br, O=P(Cl)(Cl)Cl, O=[N+]([O-])c1ccc(N=c2nc(O)cc[nH]2)cc1
+precursors not in stock:CC/C=C/c1cc2cccnn2n1
+precursors availability:zinc;Not in stock;zinc;zinc;zinc
+policy used counts:{'uspto': 809}
+
+
+target:O=C(OCCN1CCCC1)c1ccccc1N=c1cc[nH]c2cc(C(F)(F)F)ccc12
+search time:110.28380036354065
+branching factors:[]
+best solution rollout:700
+first solution time:0
+first solution iteration:0
+number of nodes:741
+max transforms:7
+max children:24
+number of routes:159
+number of solved routes:0
+top score:0.7259470710684996
+is solved:False
+number of steps:5
+number of precursors:4
+number of precursors in stock:3
+precursors in stock:OCCN1CCCC1, O=C(Cl)C(=O)Cl, CC(C)(C)OC(=O)OC(=O)OC(C)(C)C
+precursors not in stock:FC(F)(F)c1ccc2c(=Nc3ccccc3Br)cc[nH]c2c1
+precursors availability:zinc;zinc;zinc;Not in stock
+policy used counts:{'uspto': 740}
+
+
+target:CN1C(=O)C(OC(=O)C(Cl)(Cl)Cl)N=C(c2ccccc2)c2cc(Cl)ccc21
+search time:93.15512251853943
+branching factors:[]
+best solution rollout:700
+first solution time:0
+first solution iteration:0
+number of nodes:946
+max transforms:7
+max children:15
+number of routes:420
+number of solved routes:0
+top score:0.7623712936588783
+is solved:False
+number of steps:7
+number of precursors:5
+number of precursors in stock:4
+precursors in stock:COB(OC)OC, O=C(O)C(Cl)(Cl)Cl, CNc1ccc(Cl)cc1, O=Cc1ccccc1
+precursors not in stock:CCOC(=O)C(N)O
+precursors availability:zinc;zinc;zinc;Not in stock;zinc
+policy used counts:{'uspto': 945}
+
+
+target:COc1ccccc1NS(=O)(=O)CC12CCC(CC1=O)C2(C)C
+search time:120.02067971229553
+branching factors:[]
+best solution rollout:700
+first solution time:0
+first solution iteration:0
+number of nodes:591
+max transforms:7
+max children:14
+number of routes:212
+number of solved routes:0
+top score:0.6392934794344391
+is solved:False
+number of steps:6
+number of precursors:3
+number of precursors in stock:2
+precursors in stock:O=C1CCC(=O)N1Br, OCCO
+precursors not in stock:CC1(C)C2CCC1(CS(=O)(=O)Nc1ccccc1)C(=O)C2
+precursors availability:zinc;Not in stock;zinc
+policy used counts:{'uspto': 590}
+
+
+target:CCS(=O)(=O)c1ccc2[nH]c(O)c(C=c3[nH]c4c(c3=CCCN3CCN(CCO)CC3)CCCC4)c2c1
+search time:67.74415469169617
+branching factors:[]
+best solution rollout:700
+first solution time:0
+first solution iteration:0
+number of nodes:859
+max transforms:7
+max children:49
+number of routes:292
+number of solved routes:0
+top score:0.7184601461011058
+is solved:False
+number of steps:6
+number of precursors:4
+number of precursors in stock:3
+precursors in stock:OCCN1CCNCC1, ClC(Cl)(Cl)Cl, O=C(OO)c1cccc(Cl)c1
+precursors not in stock:CCSc1ccc2[nH]c(OCc3ccccc3)c(C=c3[nH]c4c(c3=CCCO[Si](C)(C)C(C)(C)C)CCCC4)c2c1
+precursors availability:zinc;zinc;Not in stock;zinc
+policy used counts:{'uspto': 858}
+
+
+target:O=C(C(=O)N1Cc2ccccc2C1)c1c[nH]c2ccccc12
+search time:27.7101993560791
+branching factors:[]
+best solution rollout:700
+first solution time:0.07886338233947754
+first solution iteration:1
+number of nodes:230
+max transforms:7
+max children:27
+number of routes:75
+number of solved routes:54
+top score:0.9976287063411217
+is solved:True
+number of steps:1
+number of precursors:2
+number of precursors in stock:2
+precursors in stock:O=C(Cl)C(=O)c1c[nH]c2ccccc12, c1ccc2c(c1)CNC2
+precursors not in stock:
+precursors availability:zinc;zinc
+policy used counts:{'uspto': 229}
+
+
+target:O=C1CCc2cc(OCCCCN3CCN(c4cccc(Cl)c4Cl)CC3)ccc2N1
+search time:51.00223350524902
+branching factors:[]
+best solution rollout:700
+first solution time:0.15648460388183594
+first solution iteration:1
+number of nodes:609
+max transforms:7
+max children:41
+number of routes:218
+number of solved routes:65
+top score:0.994039853898894
+is solved:True
+number of steps:2
+number of precursors:3
+number of precursors in stock:3
+precursors in stock:Clc1cccc(N2CCNCC2)c1Cl, ClCCCCBr, O=C1CCc2cc(O)ccc2N1
+precursors not in stock:
+precursors availability:zinc;zinc;zinc
+policy used counts:{'uspto': 608}
+
+
+target:O=C(C=Cc1ccc(O)c(O)c1)Nc1ccccc1O
+search time:28.98103427886963
+branching factors:[]
+best solution rollout:700
+first solution time:0.06153512001037598
+first solution iteration:1
+number of nodes:398
+max transforms:7
+max children:44
+number of routes:129
+number of solved routes:75
+top score:0.9976287063411217
+is solved:True
+number of steps:1
+number of precursors:2
+number of precursors in stock:2
+precursors in stock:Nc1ccccc1O, O=C(O)C=Cc1ccc(O)c(O)c1
+precursors not in stock:
+precursors availability:zinc;zinc
+policy used counts:{'uspto': 397}
+
+
+target:CC(C)(C)NC(=O)N1CCN(C2c3ccc(Cl)cc3CCc3cc(Br)cnc32)CC1C(=O)NCc1cccnc1
+search time:73.85347962379456
+branching factors:[]
+best solution rollout:700
+first solution time:0
+first solution iteration:0
+number of nodes:788
+max transforms:7
+max children:12
+number of routes:165
+number of solved routes:0
+top score:0.82024586038682
+is solved:False
+number of steps:6
+number of precursors:7
+number of precursors in stock:6
+precursors in stock:NCc1cccnc1, CC(C)(C)N, O=C(Cl)Oc1ccccc1, O=S(Cl)Cl, O=C1c2ccc(Cl)cc2CCc2cccnc21, CC(C)(C)OC(=O)OC(=O)OC(C)(C)C
+precursors not in stock:O=C(Cl)C1CNCCN1C(=O)OCc1ccccc1
+precursors availability:zinc;zinc;zinc;zinc;zinc;zinc;Not in stock
+policy used counts:{'uspto': 787}
+
+
+target:Cc1nn(C2CCOCC2)c2sc(C(=O)NC3CCC(N4CCC(CO)CC4)CC3)cc12
+search time:81.62219858169556
+branching factors:[]
+best solution rollout:700
+first solution time:0.9969692230224609
+first solution iteration:1
+number of nodes:778
+max transforms:7
+max children:19
+number of routes:144
+number of solved routes:54
+top score:0.975
+is solved:True
+number of steps:4
+number of precursors:4
+number of precursors in stock:4
+precursors in stock:OCC1CCNCC1, OC1CCOCC1, Cc1n[nH]c2sc(C(=O)O)cc12, NC1CCC2(CC1)OCCO2
+precursors not in stock:
+precursors availability:zinc;zinc;zinc;zinc
+policy used counts:{'uspto': 777}
+
+
+target:COc1ccc2c(c1)c(C1C(C)C3CCCCC3CN1S(=O)(=O)c1ccc(C)cc1)cn2C
+search time:121.00014638900757
+branching factors:[]
+best solution rollout:700
+first solution time:0
+first solution iteration:0
+number of nodes:644
+max transforms:7
+max children:14
+number of routes:112
+number of solved routes:0
+top score:0.6773731872322274
+is solved:False
+number of steps:2
+number of precursors:3
+number of precursors in stock:2
+precursors in stock:CB1OB(C)OB(C)O1, O=C1CCC(=O)N1Br
+precursors not in stock:COc1ccc2c(c1)c(C1C(C)C3CCCCC3CN1S(=O)(=O)c1ccccc1)cn2C
+precursors availability:zinc;Not in stock;zinc
+policy used counts:{'uspto': 643}
+
+
+target:Oc1ccc(-c2nsc(-c3ccc(O)c(O)c3)n2)cc1O
+search time:46.1081817150116
+branching factors:[]
+best solution rollout:700
+first solution time:0.2836601734161377
+first solution iteration:1
+number of nodes:679
+max transforms:7
+max children:77
+number of routes:205
+number of solved routes:66
+top score:0.994039853898894
+is solved:True
+number of steps:2
+number of precursors:3
+number of precursors in stock:3
+precursors in stock:OB(O)c1ccc(O)c(O)c1, N=C(N)c1ccc(O)c(O)c1, SC(Cl)(Cl)Cl
+precursors not in stock:
+precursors availability:zinc;zinc;zinc
+policy used counts:{'uspto': 678}
+
+
+target:Cc1c(CC(=O)O)c2cc(F)ccc2n1Cc1nc2ccccc2s1
+search time:48.33056402206421
+branching factors:[]
+best solution rollout:700
+first solution time:0.6594769954681396
+first solution iteration:1
+number of nodes:408
+max transforms:7
+max children:44
+number of routes:98
+number of solved routes:67
+top score:0.9976287063411217
+is solved:True
+number of steps:1
+number of precursors:2
+number of precursors in stock:2
+precursors in stock:Cc1[nH]c2ccc(F)cc2c1CC(=O)O, ClCc1nc2ccccc2s1
+precursors not in stock:
+precursors availability:zinc;zinc
+policy used counts:{'uspto': 407}
+
+
+target:CC(C)C(=O)NC(c1ccc(C(F)(F)F)cc1)c1cnccn1
+search time:69.94399857521057
+branching factors:[]
+best solution rollout:700
+first solution time:62.29784440994263
+first solution iteration:78
+number of nodes:699
+max transforms:7
+max children:16
+number of routes:253
+number of solved routes:16
+top score:0.994039853898894
+is solved:True
+number of steps:2
+number of precursors:3
+number of precursors in stock:3
+precursors in stock:CC(C)C(=O)O, FC(F)(F)c1ccc(Br)cc1, N#Cc1cnccn1
+precursors not in stock:
+precursors availability:zinc;zinc;zinc
+policy used counts:{'uspto': 698}
+
+
+target:Cc1cccnc1CN1CCN(Cc2ccc(-c3cc[nH]n3)o2)CC1
+search time:43.311283588409424
+branching factors:[]
+best solution rollout:700
+first solution time:0.0807337760925293
+first solution iteration:1
+number of nodes:385
+max transforms:7
+max children:25
+number of routes:109
+number of solved routes:57
+top score:0.9976287063411217
+is solved:True
+number of steps:1
+number of precursors:2
+number of precursors in stock:2
+precursors in stock:Cc1cccnc1CN1CCNCC1, O=Cc1ccc(-c2cc[nH]n2)o1
+precursors not in stock:
+precursors availability:zinc;zinc
+policy used counts:{'uspto': 384}
+
+
+target:COc1cc(SC)ccc1C(=O)N(C)CC(=O)Nc1cccc2ccccc12
+search time:37.86304807662964
+branching factors:[]
+best solution rollout:700
+first solution time:0.19755816459655762
+first solution iteration:1
+number of nodes:361
+max transforms:7
+max children:26
+number of routes:87
+number of solved routes:67
+top score:0.9976287063411217
+is solved:True
+number of steps:1
+number of precursors:2
+number of precursors in stock:2
+precursors in stock:CNCC(=O)Nc1cccc2ccccc12, COc1cc(SC)ccc1C(=O)O
+precursors not in stock:
+precursors availability:zinc;zinc
+policy used counts:{'uspto': 360}
+
+
+target:Cc1ccccc1C=CC(=O)NC(C)CO
+search time:60.935072898864746
+branching factors:[]
+best solution rollout:700
+first solution time:0
+first solution iteration:0
+number of nodes:641
+max transforms:7
+max children:21
+number of routes:105
+number of solved routes:0
+top score:0.7374999999999999
+is solved:False
+number of steps:4
+number of precursors:4
+number of precursors in stock:3
+precursors in stock:Cc1ccccc1C=O, CC(=O)Cl, C=C(C)C
+precursors not in stock:CC(N)CO
+precursors availability:zinc;zinc;zinc;Not in stock
+policy used counts:{'uspto': 640}
+
+
+target:COc1ccc(Oc2ccc(-c3cc4ccc(C(=N)N)cc4[nH]3)cc2)cc1
+search time:78.59761595726013
+branching factors:[]
+best solution rollout:700
+first solution time:0.20006823539733887
+first solution iteration:1
+number of nodes:562
+max transforms:7
+max children:28
+number of routes:134
+number of solved routes:42
+top score:0.994039853898894
+is solved:True
+number of steps:2
+number of precursors:3
+number of precursors in stock:3
+precursors in stock:CC(=O)c1ccc(O)cc1, COc1ccc(F)cc1, N#Cc1cccc(NN)c1
+precursors not in stock:
+precursors availability:zinc;zinc;zinc
+policy used counts:{'uspto': 561}
+
+
+target:CC(=O)N1CCN(Cc2ccc3[nH]c(-c4cc5cc(-c6cn[nH]c6)ccc5[nH]c4=O)cc3c2)CC1
+search time:61.71465826034546
+branching factors:[]
+best solution rollout:700
+first solution time:8.70815134048462
+first solution iteration:14
+number of nodes:742
+max transforms:7
+max children:36
+number of routes:158
+number of solved routes:3
+top score:0.9559601461011058
+is solved:True
+number of steps:6
+number of precursors:5
+number of precursors in stock:5
+precursors in stock:CC(=O)N1CCNCC1, O=C1CCC(=O)N1Br, CC1(C)OB(c2cn[nH]c2)OC1(C)C, C#Cc1cc(C)ccc1N, O=c1ccc2cc(Br)ccc2[nH]1
+precursors not in stock:
+precursors availability:zinc;zinc;zinc;zinc;zinc
+policy used counts:{'uspto': 741}
+
+
+target:COc1ccc2[nH]cc(CCNC(=O)c3cc(=O)c4c(OCc5ccccc5)cccc4o3)c2c1
+search time:43.90570902824402
+branching factors:[]
+best solution rollout:700
+first solution time:0.1561298370361328
+first solution iteration:1
+number of nodes:412
+max transforms:7
+max children:15
+number of routes:126
+number of solved routes:73
+top score:0.994039853898894
+is solved:True
+number of steps:2
+number of precursors:3
+number of precursors in stock:3
+precursors in stock:COc1ccc2[nH]cc(CCN)c2c1, CC(=O)c1c(O)cccc1OCc1ccccc1, CCOC(=O)C(=O)OCC
+precursors not in stock:
+precursors availability:zinc;zinc;zinc
+policy used counts:{'uspto': 411}
+
+
+target:Cc1ccc(S(=O)(=O)N(C)CC2Oc3c(NC(=O)c4ccncc4)cccc3C(=O)N(C(C)CO)CC2C)cc1
+search time:88.66441297531128
+branching factors:[]
+best solution rollout:700
+first solution time:0
+first solution iteration:0
+number of nodes:717
+max transforms:7
+max children:20
+number of routes:122
+number of solved routes:0
+top score:0.6773731872322274
+is solved:False
+number of steps:2
+number of precursors:3
+number of precursors in stock:2
+precursors in stock:CC(=O)CO, O=C(O)c1ccncc1
+precursors not in stock:Cc1ccc(S(=O)(=O)N(C)CC2Oc3c(N)cccc3C(=O)NCC2C)cc1
+precursors availability:zinc;Not in stock;zinc
+policy used counts:{'uspto': 716}
+
+
+target:O=C(O)C1CCN(c2ccc(S(=O)(=O)N3CCC(C(=O)O)CC3)cc2[N+](=O)[O-])CC1
+search time:108.39469695091248
+branching factors:[]
+best solution rollout:700
+first solution time:0
+first solution iteration:0
+number of nodes:464
+max transforms:7
+max children:33
+number of routes:106
+number of solved routes:0
+top score:0.7734470710684997
+is solved:False
+number of steps:5
+number of precursors:5
+number of precursors in stock:4
+precursors in stock:CCOC(=O)C1CCNCC1, O=[N+]([O-])c1ccccc1Cl, CC(C)(C)OC(=O)N1CCC(C(=O)O)CC1, CCCCO
+precursors not in stock:O=S(=O)(O)Cl
+precursors availability:zinc;Not in stock;zinc;zinc;zinc
+policy used counts:{'uspto': 463}
+
+
+target:Cc1nc(C)n(CC2CCCN2CC(=O)NCc2ccco2)n1
+search time:68.68010711669922
+branching factors:[]
+best solution rollout:700
+first solution time:45.07661771774292
+first solution iteration:66
+number of nodes:653
+max transforms:7
+max children:12
+number of routes:124
+number of solved routes:2
+top score:0.975
+is solved:True
+number of steps:4
+number of precursors:3
+number of precursors in stock:3
+precursors in stock:O=C(CCl)NCc1ccco1, C=CC(=O)OC, Cc1nc(C)n(CC[N+](=O)[O-])n1
+precursors not in stock:
+precursors availability:zinc;zinc;zinc
+policy used counts:{'uspto': 652}
+
+
+target:O=C(NC1CC1c1ccccc1)c1ccc([N+](=O)[O-])cc1
+search time:75.8982241153717
+branching factors:[]
+best solution rollout:700
+first solution time:15.858317136764526
+first solution iteration:20
+number of nodes:855
+max transforms:7
+max children:19
+number of routes:327
+number of solved routes:7
+top score:0.975
+is solved:True
+number of steps:4
+number of precursors:4
+number of precursors in stock:4
+precursors in stock:O=C(Cl)c1ccc([N+](=O)[O-])cc1, CC(C)(C)O, C=Cc1ccccc1, CCOC(=O)C=[N+]=[N-]
+precursors not in stock:
+precursors availability:zinc;zinc;zinc;zinc
+policy used counts:{'uspto': 854}
+
+
+target:CCN(CC)c1ccc(-c2oc3ccccc3c(=O)c2O)cc1
+search time:87.33519959449768
+branching factors:[]
+best solution rollout:700
+first solution time:2.1061313152313232
+first solution iteration:3
+number of nodes:483
+max transforms:7
+max children:28
+number of routes:165
+number of solved routes:31
+top score:0.9976287063411217
+is solved:True
+number of steps:1
+number of precursors:2
+number of precursors in stock:2
+precursors in stock:CCN(CC)c1ccc(C=O)cc1, O=C(CO)c1ccccc1
+precursors not in stock:
+precursors availability:zinc;zinc
+policy used counts:{'uspto': 482}
+
+
+target:O=C(O)c1cccc(CNCc2ccccc2)c1
+search time:17.881267309188843
+branching factors:[]
+best solution rollout:700
+first solution time:0.07429862022399902
+first solution iteration:1
+number of nodes:252
+max transforms:7
+max children:48
+number of routes:117
+number of solved routes:87
+top score:0.9976287063411217
+is solved:True
+number of steps:1
+number of precursors:2
+number of precursors in stock:2
+precursors in stock:NCc1cccc(C(=O)O)c1, O=Cc1ccccc1
+precursors not in stock:
+precursors availability:zinc;zinc
+policy used counts:{'uspto': 251}
+
+
+target:CC1=NC(=O)NC(c2cc(Br)c(O)c(Br)c2)C1C(=O)c1ccccc1
+search time:83.08781695365906
+branching factors:[]
+best solution rollout:700
+first solution time:0
+first solution iteration:0
+number of nodes:633
+max transforms:7
+max children:22
+number of routes:103
+number of solved routes:0
+top score:0.7184601461011058
+is solved:False
+number of steps:6
+number of precursors:4
+number of precursors in stock:3
+precursors in stock:O=C1CCC(=O)N1Br, Clc1cccc(Br)c1, CNOC
+precursors not in stock:COc1ccc(C2C(C(=O)O)C(C)=NC(=O)N2C(=O)OC(C)(C)C)cc1Br
+precursors availability:zinc;zinc;zinc;Not in stock
+policy used counts:{'uspto': 632}
+
+
+target:O=C(C(=O)N1CCN(C(=O)c2ccccc2)CC1)c1c[nH]c2c(Cl)cccc12
+search time:38.5168514251709
+branching factors:[]
+best solution rollout:700
+first solution time:0.9962694644927979
+first solution iteration:2
+number of nodes:323
+max transforms:7
+max children:16
+number of routes:87
+number of solved routes:46
+top score:0.9976287063411217
+is solved:True
+number of steps:1
+number of precursors:2
+number of precursors in stock:2
+precursors in stock:O=C(O)C(=O)c1c[nH]c2c(Cl)cccc12, O=C(c1ccccc1)N1CCNCC1
+precursors not in stock:
+precursors availability:zinc;zinc
+policy used counts:{'uspto': 322}
+
+
+target:COc1ccc(CN(Cc2nc(=O)c3ccccc3[nH]2)C(=O)NC2CCCCC2)cc1
+search time:40.425628900527954
+branching factors:[]
+best solution rollout:700
+first solution time:0.14155244827270508
+first solution iteration:1
+number of nodes:464
+max transforms:7
+max children:22
+number of routes:183
+number of solved routes:69
+top score:0.994039853898894
+is solved:True
+number of steps:2
+number of precursors:3
+number of precursors in stock:3
+precursors in stock:O=C=NC1CCCCC1, COc1ccc(CN)cc1, O=Cc1nc(=O)c2ccccc2[nH]1
+precursors not in stock:
+precursors availability:zinc;zinc;zinc
+policy used counts:{'uspto': 463}
+
+
+target:O=C(O)CN(c1ccccn1)S(=O)(=O)c1ccccc1
+search time:72.09728050231934
+branching factors:[]
+best solution rollout:700
+first solution time:0.13956975936889648
+first solution iteration:1
+number of nodes:454
+max transforms:7
+max children:30
+number of routes:121
+number of solved routes:20
+top score:0.9976287063411217
+is solved:True
+number of steps:1
+number of precursors:2
+number of precursors in stock:2
+precursors in stock:COC(=O)CBr, O=S(=O)(Nc1ccccn1)c1ccccc1
+precursors not in stock:
+precursors availability:zinc;zinc
+policy used counts:{'uspto': 453}
+
+
+target:CCCOc1ccc(C2C(=O)N(C3CCCCCC3)CC(=O)N2C(C)C)cc1OC
+search time:56.25002384185791
+branching factors:[]
+best solution rollout:700
+first solution time:0
+first solution iteration:0
+number of nodes:789
+max transforms:7
+max children:24
+number of routes:243
+number of solved routes:0
+top score:0.7659601461011059
+is solved:False
+number of steps:6
+number of precursors:5
+number of precursors in stock:4
+precursors in stock:NC1CCCCCC1, O=C(Cl)CCl, CCCBr, BrCc1ccccc1
+precursors not in stock:COc1cc(C(NC(C)C)C(=O)O)ccc1O
+precursors availability:zinc;zinc;zinc;zinc;Not in stock
+policy used counts:{'uspto': 788}
+
+
+target:CCC(Cc1ccc(C(=O)NCc2ccccc2Br)cc1)C(=O)O
+search time:59.4374463558197
+branching factors:[]
+best solution rollout:700
+first solution time:4.401734828948975
+first solution iteration:3
+number of nodes:596
+max transforms:7
+max children:20
+number of routes:108
+number of solved routes:22
+top score:0.9865529289315002
+is solved:True
+number of steps:3
+number of precursors:3
+number of precursors in stock:3
+precursors in stock:CCCC(=O)OC, NCc1ccccc1Br, O=C(Cl)c1ccc(CBr)cc1
+precursors not in stock:
+precursors availability:zinc;zinc;zinc
+policy used counts:{'uspto': 595}
+
+
+target:OCC1CC(n2cnc3c(SCc4ccc(Br)cc4)ncnc32)C(O)C1O
+search time:82.82274079322815
+branching factors:[]
+best solution rollout:700
+first solution time:0
+first solution iteration:0
+number of nodes:846
+max transforms:7
+max children:59
+number of routes:269
+number of solved routes:0
+top score:0.7259470710684996
+is solved:False
+number of steps:5
+number of precursors:4
+number of precursors in stock:3
+precursors in stock:CC(=O)OC(C)=O, CC(=O)OC(C)=O, CC(=O)OC(C)=O
+precursors not in stock:CC(C)(C)[Si](C)(C)OCC1CC(n2cnc3c(SCc4ccc(Br)cc4)ncnc32)C(O)C1O
+precursors availability:zinc;zinc;zinc;Not in stock
+policy used counts:{'uspto': 845}
+
+
+target:O=c1c2ccccc2oc2c([N+](=O)[O-])ccc(Cn3ccnc3)c12
+search time:57.472859621047974
+branching factors:[]
+best solution rollout:700
+first solution time:0.35016322135925293
+first solution iteration:1
+number of nodes:676
+max transforms:7
+max children:12
+number of routes:224
+number of solved routes:29
+top score:0.994039853898894
+is solved:True
+number of steps:2
+number of precursors:2
+number of precursors in stock:2
+precursors in stock:O=C(O)c1ccccc1O, O=[N+]([O-])c1ccc(Cn2ccnc2)cc1F
+precursors not in stock:
+precursors availability:zinc;zinc
+policy used counts:{'uspto': 675}
+
+
+target:O=C1CC(c2ccccc2)c2c(sc(-c3ccc(Cl)cc3)c2-c2ccc(Cl)cc2)N1
+search time:53.56026744842529
+branching factors:[]
+best solution rollout:700
+first solution time:0
+first solution iteration:0
+number of nodes:743
+max transforms:7
+max children:40
+number of routes:178
+number of solved routes:0
+top score:0.8336212936588783
+is solved:False
+number of steps:7
+number of precursors:8
+number of precursors in stock:7
+precursors in stock:Clc1ccc(Br)cc1, CC(C)(O)C(C)(C)O, COc1cc(Cl)ccc1B(O)O, CC(C)(O)C(C)(C)O, OB(O)B(O)O, O=C1CCC(=O)N1Br, O=C1CCC(=O)N1Br
+precursors not in stock:O=C1CC(c2ccccc2)c2ccsc2N1
+precursors availability:zinc;zinc;zinc;zinc;zinc;zinc;Not in stock;zinc
+policy used counts:{'uspto': 742}
+
+
+target:CCCC(c1nnnn1Cc1ccco1)N1CCN(c2ccccc2)CC1
+search time:61.335906744003296
+branching factors:[]
+best solution rollout:700
+first solution time:0
+first solution iteration:0
+number of nodes:595
+max transforms:7
+max children:13
+number of routes:118
+number of solved routes:0
+top score:0.794037960325545
+is solved:False
+number of steps:7
+number of precursors:6
+number of precursors in stock:5
+precursors in stock:O=S(Cl)Cl, COC(CNc1ccccc1)OC, OCCBr, CC(C)(C)OC(=O)OC(=O)OC(C)(C)C, BrCc1ccco1
+precursors not in stock:C=CCC(N=[N+]=[N-])c1nnn[nH]1
+precursors availability:zinc;zinc;zinc;zinc;zinc;Not in stock
+policy used counts:{'uspto': 594}
+
+
+target:COc1ccc(C2=C(c3ccc(OC)c(OC)c3)CN3CCCC3C2)cc1OC
+search time:82.6326515674591
+branching factors:[]
+best solution rollout:700
+first solution time:0
+first solution iteration:0
+number of nodes:750
+max transforms:7
+max children:27
+number of routes:220
+number of solved routes:0
+top score:0.7148712936588782
+is solved:False
+number of steps:7
+number of precursors:4
+number of precursors in stock:3
+precursors in stock:OCCO, CCOC(=O)C=[N+]=[N-], CC(C)(C)OC(=O)OC(=O)OC(C)(C)C
+precursors not in stock:COc1ccc(C2=C(c3ccc(OC)c(OC)c3)CC(=O)CCNC2)cc1OC
+precursors availability:zinc;zinc;zinc;Not in stock
+policy used counts:{'uspto': 749}
+
+
+target:COc1ccc(C2C(CCCCc3ccccc3)C(=O)N2c2ccc(OC)cc2)cc1
+search time:97.22111988067627
+branching factors:[]
+best solution rollout:231
+first solution time:0
+first solution iteration:0
+number of nodes:765
+max transforms:7
+max children:20
+number of routes:197
+number of solved routes:0
+top score:0.7259470710684996
+is solved:False
+number of steps:5
+number of precursors:4
+number of precursors in stock:3
+precursors in stock:COc1ccc(I)cc1, Ic1ccccc1, C#C[Si](C)(C)C
+precursors not in stock:COc1ccc(C2NC(=O)C2CCI)cc1
+precursors availability:zinc;zinc;zinc;Not in stock
+policy used counts:{'uspto': 764}
+
+
+target:Cc1cccc(C)c1NC(=O)C1=C(C(=O)O)C2CCC1C2
+search time:91.7900960445404
+branching factors:[]
+best solution rollout:231
+first solution time:0
+first solution iteration:0
+number of nodes:656
+max transforms:7
+max children:16
+number of routes:116
+number of solved routes:0
+top score:0.6583333333333333
+is solved:False
+number of steps:4
+number of precursors:3
+number of precursors in stock:2
+precursors in stock:Cc1cccc(C)c1N, CC(=O)O
+precursors not in stock:O=C(O)C1=C(C(=O)Cl)C2C=CC1C2
+precursors availability:zinc;Not in stock;zinc
+policy used counts:{'uspto': 655}
+
+
+target:Cc1cc(C)n(-c2nc3ccccc3[nH]c2=Nc2cc(C(=O)O)ccc2C)n1
+search time:94.3889536857605
+branching factors:[]
+best solution rollout:1469
+first solution time:0
+first solution iteration:0
+number of nodes:601
+max transforms:7
+max children:21
+number of routes:114
+number of solved routes:0
+top score:0.7259470710684996
+is solved:False
+number of steps:5
+number of precursors:4
+number of precursors in stock:3
+precursors in stock:Cc1cc(C)[nH]n1, O=P(Cl)(Cl)Cl, O=C(OO)c1cccc(Cl)c1
+precursors not in stock:Cc1ccc(C(=O)[O-])c(Br)c1N=c1cnc2ccccc2[nH]1
+precursors availability:zinc;zinc;Not in stock;zinc
+policy used counts:{'uspto': 600}
+

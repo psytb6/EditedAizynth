@@ -1,0 +1,101 @@
+
+target: CCCCCOCCCOCCCO
+search time: 37.91594195365906
+branching factors: []
+best solution rollout: 2
+number of nodes: 451
+max transforms: 7
+max children: 46
+number of routes: 264
+number of solved routes: 97
+top score: 0.9976287063411217
+is solved: True
+number of steps: 1
+number of precursors: 2
+number of precursors in stock: 2
+precursors in stock: CCCCCCl, OCCCOCCCO
+precursors not in stock: 
+precursors availability: zinc;zinc
+policy used counts: {'uspto': 450}
+
+
+target: CCCCCOCCCOCCCO
+search time: 38.56741714477539
+branching factors: []
+best solution rollout: 2
+number of nodes: 471
+max transforms: 7
+max children: 46
+number of routes: 272
+number of solved routes: 98
+top score: 0.9976287063411217
+is solved: True
+number of steps: 1
+number of precursors: 2
+number of precursors in stock: 2
+precursors in stock: CCCCCO, OCCCOCCCCl
+precursors not in stock: 
+precursors availability: zinc;zinc
+policy used counts: {'uspto': 470}
+
+
+target: CCCCCOCCCOCCCO
+search time: 37.80781102180481
+branching factors: []
+best solution rollout: 8
+number of nodes: 439
+max transforms: 7
+max children: 46
+number of routes: 257
+number of solved routes: 94
+top score: 0.9976287063411217
+is solved: True
+number of steps: 1
+number of precursors: 2
+number of precursors in stock: 2
+precursors in stock: CCCCCBr, OCCCOCCCO
+precursors not in stock: 
+precursors availability: zinc;zinc
+policy used counts: {'uspto': 438}
+
+
+target: CCCCCOCCCOCCCO
+search time: 37.19432210922241
+branching factors: []
+best solution rollout: 4
+number of nodes: 450
+max transforms: 7
+max children: 46
+number of routes: 263
+number of solved routes: 103
+top score: 0.9976287063411217
+is solved: True
+number of steps: 1
+number of precursors: 2
+number of precursors in stock: 2
+precursors in stock: CCCCCO, OCCCOCCCO
+precursors not in stock: 
+precursors availability: zinc;zinc
+policy used counts: {'uspto': 449}
+
+
+target: CCCCCOCCCOCCCO
+best solution rollout: 1
+total rollouts: 314
+current it: 100
+first solution iteration: 1
+number of nodes: 463
+max transforms: 7
+max children: 46
+number of routes: 268
+number of solved routes: 94
+top score: 0.9976287063411217
+is solved: True
+number of steps: 1
+number of precursors: 2
+number of precursors in stock: 2
+precursors in stock: CCCCCCl, OCCCOCCCO
+precursors not in stock: 
+precursors availability: zinc;zinc
+policy used counts: {'uspto': 462}
+
