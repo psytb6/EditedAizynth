@@ -1,0 +1,12 @@
+policy:
+  files:
+    uspto:
+      - /home/psytb6/aizynthfinder/aizynthfinder/uspto_model.hdf5
+      - /home/psytb6/aizynthfinder/aizynthfinder/uspto_templates.hdf5
+filter:
+  files:
+    uspto: /home/psytb6/aizynthfinder/aizynthfinder/uspto_filter_model.hdf5
+stock:
+  files:
+    zinc: zinc_stock.hdf5
+    
